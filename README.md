@@ -1,5 +1,4 @@
 
-
 # 🎓 EduNet — Online Learning & Education System
 
 **EduNet** is a full-stack **web application** designed to help learners access educational content, explore courses, and manage learning progress effortlessly.  
